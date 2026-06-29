@@ -7,3 +7,8 @@ câu 3
 
 câu 4
 <img width="880" height="327" alt="image" src="https://github.com/user-attachments/assets/fca2de37-1764-47d7-915a-44078137c011" />
+
+câu 6
+<img width="602" height="75" alt="image" src="https://github.com/user-attachments/assets/4120b33f-013a-452e-890f-c0b4a3e32e6f" />
+
+
